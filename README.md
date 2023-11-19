@@ -1,6 +1,6 @@
 # Lab7Web
 
-# Nama : Naza Seft Prianita
+# Nama : Naza Sefti Prianita
 
 # Kelas : TI.22.A3
 
